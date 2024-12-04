@@ -1,8 +1,12 @@
+#Información
+
+**Nombre del alumno:** David García Rodríguez
+**Empresa:** ViewNext
+**Área o departamento. Proyecto asignado:** Inteligencia Artificial
+**Periodo de prácticas:** 21/11/2024-13/03/2025
+**Tutor empresa:** David Rodrigo García
 
 # Diario Dual
-
-**David García Rodríguez**  
-**Tutor y Pem**: David Rodrigo
 
 - **21/11/2024**:  
   Primer día, recogemos y configuramos los portátiles, nos ponemos en contacto con nuestro tutor y empezamos a realizar 3 cursos obligatorios sobre riesgos laborales, seguridad de la información y gestión ambiental.
@@ -18,3 +22,7 @@
 
 - **29/11/2024**:  
   Empiezo con el curso de Angular de la plataforma de Udemy, nos conectamos todos los compañeros de la dual a una reunión online para darnos la bienvenida a todos y explicarnos los principales puntos de la empresa, como los valores de la misma y más información de utilidad para nuestro paso por la empresa, me conecto a la reunión diaria del proyecto, continuó con el curso de Angular y al final de la mañana de nuevo me vuelvo a ver con Jose Antonio Beltrán y me explica una pequeña muestra de la idea ya desarrollada y las tecnologías que usa tanto en el front como en el backend.
+
+- **02/12/2024**: Continuo con los cursos de angular y empiezo a ver como se crean los proyectos, que estructura tiene y demas contenido introductorio. Hacemos la reunion diaria del proyecto y al final de la mañana nos dan accesoa los repositorios de la app web para que empecemos a ver y probar en nuestro entorno local.
+
+- **03/12/2024**: Continuo con el curso de angular, pero cambio a otro similar que me recomendo Jose Antonio Beltran y que su contenido esta mejor, empezando con lo esencial sobre TypeScript. Me conecto a la reunion diaria del proyecto y continuo con el curso.
