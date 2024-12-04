@@ -1,4 +1,4 @@
-#Información
+# Información
 
 **Nombre del alumno:** David García Rodríguez
 **Empresa:** ViewNext
