@@ -10,6 +10,8 @@
 
 **Tutor empresa:** David Rodrigo García.
 
+**Horario:** Lunes, Martes, Jueves y Viernes de 08:15h a 15h
+
 # Diario Dual
 
 - **21/11/2024**:  
@@ -38,3 +40,7 @@
 - **10/12/2024**: Me reuno con mi tutor y Jose Antonio en la daily de la app web, hablamos sobre los errores que van saliendo y voy solucionando en la app. Hago la daily del proyecto como simpre y continuo cumpliendo tareas para evolucionar la app.
 
 - **12/12/2024**: Continuo con la app web y consigo terminar un bloqueo que tenia en un error, me reuno con mi tutor y Jose Antonio en la daily de la app web y les explico los avances y problemas que he tenido, Jose Antonio me dice que si todo el codigo compila bien que puedo empezar a subir mis actualizaciones a la rama del repositorio y me comparten el y David mas información necesaria para continuar, continuo con las tareas de mejora a realizar sobre la app y finalmente hago la daily del proyecto.
+
+- **13/12/2024**: Empiezo con la daily de la app y les enseño hasta donde he llegado y como, me dan feedback y me resuelven algunas dudas para continuar, sigo con ella y la avanzo bastante, realizo la daily del proyecto y continuo un poco con el curso.
+
+- **16/12/2024**: Empiezo con la daily de la app, les enseño como tengo ya la app, que practimante esta hasta donde hemos marcado y vemos otros puntos que tenemos que solucionar, me conecto a la daily del proyecto y al final continuo otro rato con el curso
