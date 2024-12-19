@@ -44,3 +44,5 @@
 - **13/12/2024**: Empiezo con la daily de la app y les enseño hasta donde he llegado y como, me dan feedback y me resuelven algunas dudas para continuar, sigo con ella y la avanzo bastante, realizo la daily del proyecto y continuo un poco con el curso.
 
 - **16/12/2024**: Empiezo con la daily de la app, les enseño como tengo ya la app, que practimante esta hasta donde hemos marcado y vemos otros puntos que tenemos que solucionar, me conecto a la daily del proyecto y al final continuo otro rato con el curso
+
+- **17/12/2024**: Empiezo con la daily de la app y me pongo a buscar unos errores que encontrábamos, me conecto a la daily del proyecto y continuo debugueando el codigo para encontrar el error.
