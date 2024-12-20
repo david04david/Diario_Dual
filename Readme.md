@@ -46,3 +46,7 @@
 - **16/12/2024**: Empiezo con la daily de la app, les enseño como tengo ya la app, que practimante esta hasta donde hemos marcado y vemos otros puntos que tenemos que solucionar, me conecto a la daily del proyecto y al final continuo otro rato con el curso
 
 - **17/12/2024**: Empiezo con la daily de la app y me pongo a buscar unos errores que encontrábamos, me conecto a la daily del proyecto y continuo debugueando el codigo para encontrar el error.
+
+- **19/12/2024**: Empiezo con la daily de la app, Jose Antonio me hecha una mano con un problema, subo los codigos a los repositorios de la app y sigo intentando solucionarlo, hacemos la daily del proyecto y continuo intentando resolver el problema aunque no lo consigo.
+
+- **20/12/2024**: Empiezo con la daily de la app, Jose Antonio me ayuda y conseguimos solucionar este problema, aunque aparece otro nuevo problema, hacemos una reunión del proyecto del fin de sprint y nos comentan que en el siguiente los empezaremos a ayudar con diferentes tareas, especialmente en front-end, hablo con Jose Antonio para comentarle acerca del error, me conecto a una reunión en la que nos explican como usaremos python para desplegar el proyecto en los siguientes sprint y finalmente consigo solucionar el problema en la app y subirlo a los repositorios.
