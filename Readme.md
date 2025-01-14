@@ -51,6 +51,10 @@
 
 - **20/12/2024**: Empiezo con la daily de la app, Jose Antonio me ayuda y conseguimos solucionar este problema, aunque aparece otro nuevo problema, hacemos una reunión del proyecto del fin de sprint y nos comentan que en el siguiente los empezaremos a ayudar con diferentes tareas, especialmente en front-end, hablo con Jose Antonio para comentarle acerca del error, me conecto a una reunión en la que nos explican como usaremos python para desplegar el proyecto en los siguientes sprint y finalmente consigo solucionar el problema en la app y subirlo a los repositorios.
 
+
+- **VACACIONES NAVIDAD**
+
+
 - **09/01/2025:** Vuelvo despues de las vacaciones, hago la daily de la app y decidimos nuevas mejoras y bugs que hay que ir solucionando para ir detallando y me empiezo a poner con ello, mi PEM hace una reunion con los compañeros del front del proyecto para que nos expliquen a Daniel y a mi como lo estan haciendo y nos empiezan a introducir para empezar dentro de poco a echarlos una mano y al final de la mañana hago la daily del proyecto.
 
 - **10/01/2025:** Empiezo con la daily de la app y le cuento a los tutores los problemas que me surgieron y no fui capaz de solucionar, me explican y me ayudan a solucionarlo y seguimos viendo nuevas mejoras que hay que continuar haciendo, por lo que me pongo con ello a probar e ir mejorando cosas para ir actualizando mi rama en Github, mi PEM me explica tambien y me ayuda a registrarme en otra plataforma para el proyecto, y finalmente hago la daily del proyecto.
