@@ -74,3 +74,11 @@
 - **23/01/2025:** Continuo con la tarea del proyecto, pero me surge una duda con un problema, entro en la daily, le comento el problema que tenia y al final de la llamada me quedo con David, otro tutor y algunos compañeros para ayudarme, finalmente lo sacamos y me comentan ciertas mejoras que podria implementar, por lo que me pongo con ellas. 
 
 - **24/01/2025:** Empiezo la mañana retomando las novedades que tenia que implementar en la otra app, hago la daily del proyecto, hablo con un compañero del proyecto para que me eche una mano con una de las mejoras que tenia que implentear y lo dejamos practicamente solucionado a falta de un pequeño fallo.
+
+- **27/01/2025:** Continuo con el desarrollo de la app, me reuno con Jose Antonio y le enseño lo que llevo y nos ponemos un poco al dia, entro en la daily del proyecto, tambien comento lo que llevo y pequeños fallos que han surgido, continuo con la tarea del proyecto y hago la daily del proyecto. 
+
+- **28/01/2025:** Empiezo la mañana de nuevo con las tareas del proyecto, hago la daily del proyecto y continuo con mi tarea, mas tarde hablo con Jose Antonio para enseñarle lo que llevo, soluciono un error que habia y termino con la daily del proyecto. 
+
+- **30/01/2025:** Sigo con la app, entro en reunion con Jose Antonio y David (mi PEM) para comentar de nuevo como lo llevamos y ciertas actualizaciones que habia hecho el, subo al repositorio mi codigo y hago las dos dailys y continuo con las tareas del proyecto que me atasque con un fallo y le pregunte a un compañero. 
+
+- **31/01/2025:** Dani y yo nos reunimos con un compañero del proyecto para explicarnos un par de cosas de una nueva tarea, entramos en reunion con Jose Antonio para ver como vamos y solucionar unos problemas, entramos en la daily del proyecto, entro en llamada con otro compañero del proyecto al que le preguntaba ayer por un fallo, que solucionamos, lo subo al repositorio y terminamos el dia continuando con la tarea del proyecto.
