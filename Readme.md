@@ -82,3 +82,11 @@
 - **30/01/2025:** Sigo con la app, entro en reunion con Jose Antonio y David (mi PEM) para comentar de nuevo como lo llevamos y ciertas actualizaciones que habia hecho el, subo al repositorio mi codigo y hago las dos dailys y continuo con las tareas del proyecto que me atasque con un fallo y le pregunte a un compañero. 
 
 - **31/01/2025:** Dani y yo nos reunimos con un compañero del proyecto para explicarnos un par de cosas de una nueva tarea, entramos en reunion con Jose Antonio para ver como vamos y solucionar unos problemas, entramos en la daily del proyecto, entro en llamada con otro compañero del proyecto al que le preguntaba ayer por un fallo, que solucionamos, lo subo al repositorio y terminamos el dia continuando con la tarea del proyecto.
+  
+- **03/02/2025:** Comienzo siguiendo con el desarrollo de la app de Jose Antonio, hablo con mi PEM para cambiar el Miercoles libre por el Viernes, ya que tengo cita medica el viernes, hago las dailys del proyecto, comento los avances y ciertos errores que surgen y termino continuando con las tareas del proyecto, algunas junto algunos compañeros del proyecto.
+
+- **04/02/2025:** Empiezo la mañana reuniendome con un compañero del proyecto para ver juntos algunos problemas que habia entre el back y el front, hago las dailys y continuo con las tareas del proyecto.
+
+- **05/02/2025:** Como comentaba el lunes, cambie el miercoles libre por el viernes. Empiezo la mañana reuniendome de nuevo con un compañero del proyecto para continuar solucionando problemas que surgen, hago las dailys y continuo con las tareas.
+
+- **06/02/2025:** Empiezo la mañana reuniendome de nuevo con mi compañero para continuar viendo juntos los problemas, nos reunimos con Jose Antonio y nos explica que se esta desplegando nuestra app en un nuevo repo, no explica como funciona y tenemos que subir alli nuestras ramas, por lo que cuando terminamos la reunion descargo y subo las ramas, hacemos la reunion de fin de sprint y continuo solucionando unos problemas que habia.
