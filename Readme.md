@@ -106,3 +106,17 @@
 - **19/02/2025**: Cambio de nuevo el miercoles libre por el viernes con mi pem, ya que tengo de nuevo cita medica, entro en la daily y estoy todo el dia con un compañero continuando con el arreglo de una de las secciones y la dejamos arreglada entera. Al final de la mañana me contacta el jefe del proyecto para comentarme que ha hablado con Jose Antonio y mi PEM (David), y han acordado que este durante los siguiente 4-5 dias dedicandome solo a la app con Jose Antonio, ya que quieren dejarla lista en las proximas semanas y tras esto volver con las tareas del proyecto de nuevo.
 
 - **20/02/2025**: Comento a mis compañeros de front del proyecto hasta donde he llegado y cuales han sido mis ultimos cambios por si en los proximos dias tienen que coger el relevo de mis tareas, entro en la daily, me reuno con Jose Antonio y me pongo a terminar una seccion que quedaba pendiente, la termino y me reuno con el para enseñarsela, acordamos los micros que voy a necesitar para la siguiente seccion y me comenta como lleva el ese desarrollo.
+  
+- **24/02/2025**: Para empezar, nos reunimos con Jose Antonio y me presenta a dos compañeros senior que me van a ayudar con la app, por lo que les empiezo a enseñar cómo está la app, los cambios que tenemos planteados y empezamos con ello.
+
+- **25/02/2025**: Empiezo la mañana reuniéndome con Jose Antonio para seguir solucionando y añadiendo cosas, hablo con los compañeros de la app para ponernos de acuerdo en las tareas a abordar, me reúno con ellos y seguimos viendo cosas, continúo y más tarde nos volvemos a reunir con Jose Antonio.
+
+- **27/02/2025**: Después de estar unos días fuera del proyecto para dedicarle todo el tiempo a la app de Jose Antonio, vuelvo al proyecto y para empezar hablo a los compañeros del front para que me pongan un poco al día y me comenten si hay algo donde echarles una mano o tareas pendientes para ponerme con ellas, entro en la reunión de planteamiento del nuevo sprint que ocupa gran parte de la mañana, salen problemas en la tarea y se lo comento a los compañeros.
+
+- **28/02/2025**: Uno de los compañeros me cuenta que el componente de un framework que se usa en mi tarea es el problema de que no funcione y que la mejor opción es hacerlo a mano, por lo que lo hago y lo dejo terminado, hacemos la reunión de fin de sprint y me pongo a solucionar otro problema menor que quedaba pendiente por arreglar.
+
+- **06/03/2025**: Tras el puente de carnavales, empiezo leyendo todos los chats y correos para ponerme al día sobre todos los cambios, me reúno con Jose Antonio para ver los cambios que tienen durante nuestro puente y me dice que convoque a los compañeros para ponernos todos al día e ir consiguiendo las nuevas funcionalidades, por lo que hablo con ellos y nos reunimos, entro en la daily y continúo con la app hasta el final de la mañana.
+
+- **07/03/2025**: Empiezo reuniéndome con Jose Antonio, le comento los problemas que surgieron el jueves y que nos tiene que solucionar del back, entro en la daily y empiezo una tarea del proyecto junto a Dani.
+
+- **10/03/2025**: Empiezo la mañana continuando junto a Dani una tarea del proyecto, más tarde nos llama Jose Antonio para seguir resolviendo problemas de la app, termino con Jose Antonio por hoy con la app y continúo con Dani haciendo la tarea del proyecto con la que empezamos la mañana.
