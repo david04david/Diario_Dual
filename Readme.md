@@ -120,3 +120,11 @@
 - **07/03/2025**: Empiezo reuniéndome con Jose Antonio, le comento los problemas que surgieron el jueves y que nos tiene que solucionar del back, entro en la daily y empiezo una tarea del proyecto junto a Dani.
 
 - **10/03/2025**: Empiezo la mañana continuando junto a Dani una tarea del proyecto, más tarde nos llama Jose Antonio para seguir resolviendo problemas de la app, termino con Jose Antonio por hoy con la app y continúo con Dani haciendo la tarea del proyecto con la que empezamos la mañana.
+
+- **11/03/2025**: Termino la tarea del proyecto, entro en la daily del proyecto, me reuno con Jose Antonio para dejar resueltos unos problemas del back y lo subo al repo.
+
+- **13/03/2025**: Sigo con la app y me reuno con Jose Antonio, entro en la daily del proyecto e intento dejar solucionado un bug en el proyecto.
+
+- **14/03/2025**: Entro en la daily del proyecto, les comento que ya esta nuestra tarea terminada, me reuno con unos compañeros del proyecto para juntar todos los repositorios del front, surgen unos problemas, pero finalmente lo dejo resuelto, y al final de la mañana me reuno con Jose Antonio para seguir solucionando cosas que faltan en el back para la app.
+
+- **17/03/2025**: Ultimo día de la dual. Empiezo la mañana entrando en la daily del proyecto, continuo añadiendo cosas en el front de la app, me reuno con Jose Antonio, entro en la otra daily del proyecto y finalmente continuo con las tareas.
