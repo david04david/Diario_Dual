@@ -6,7 +6,7 @@
 
 **Área o departamento. Proyecto asignado:** Inteligencia Artificial.
 
-**Periodo de prácticas:** 21/11/2024-13/03/2025.
+**Periodo de prácticas:** 21/11/2024-17/03/2025.
 
 **Tutor empresa:** David Rodrigo García.
 
